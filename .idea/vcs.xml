@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/github.com/Luxurioust/excelize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/bobertlo/go-mpg123" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/golang/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gordonklaus/portaudio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-oci8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/crypto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/text" vcs="Git" />
+  </component>
+</project>
